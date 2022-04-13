@@ -1,3 +1,19 @@
+.card{
+  background-color: crimson;
+  color: #fff;
+  padding: 5px;
+  width: 300px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.card-container{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .App {
   text-align: center;
 }
